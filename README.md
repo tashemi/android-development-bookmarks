@@ -80,4 +80,5 @@ Bookmarks for android development
   + [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
   + [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
   + [Android Holo Colors Generator](http://android-holo-colors.com/)
+  + [Android Studio Templates](https://github.com/gabrielemariotti/AndroidStudioTemplate)
 
