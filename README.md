@@ -36,6 +36,7 @@ Bookmarks for android development
   + [google-gson](https://code.google.com/p/google-gson/) - A Java library to convert JSON to Java objects and vice-versa
   + [Keyczar](http://www.keyczar.org/) - an open source cryptographic toolkit designed to make it easier and safer for developers to use cryptography in their applications. by Google.inc
   + [appdatapreferences-android](https://github.com/googledrive/appdatapreferences-android)
+  + [RxJava](https://github.com/Netflix/RxJava) - Reactive Extensions for the JVM
 
 + SDK
   + [Facebook SDK for Android](https://developers.facebook.com/docs/android/)
@@ -58,7 +59,7 @@ Bookmarks for android development
   + [TimesSquare for Android](https://github.com/square/android-times-square) - Standalone Android widget for picking a single date from a calendar view.
   + [Dagger](http://square.github.io/dagger/) - A fast dependency injector for Android and Java by Square, Inc.
   + [otto](http://square.github.io/otto/) - An enhanced event bus with emphasis on Android support by Square, Inc.
-  + [Retrofit](http://square.github.io/retrofit/) - A type-safe REST client for Android and Java
+  + [Retrofit](http://square.github.io/retrofit/) - A type-safe REST client for Android and Java. Retrofit turns REST API into a Java interface
   + [OkHttp](https://github.com/square/okhttp) - An HTTP & SPDY client for Android and Java applications.
   + [tape](http://square.github.io/tape/) - a collection of queue-related classes for Android and Java by Square, Inc.
   + [seismic](https://github.com/square/seismic) - Android device shake detection.by Square, Inc.
@@ -69,6 +70,7 @@ Bookmarks for android development
   + [BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign) - Sample to show how to implement blur graphical tricks
   + [Blurring](https://github.com/paveldudka/blurring) - Sandbox project for different blurring techniques
   + [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) - how to make not boring action bar
+  + [Paralax ViewPager](http://howrobotswork.wordpress.com/2014/05/09/parallaxviewpager-parallax-background-effect-for-the-viewpager/)
 
 + WebSites
   + [Android Views](http://www.androidviews.net/)
@@ -76,6 +78,7 @@ Bookmarks for android development
   + [Mobile Design Pattern Gallery](http://www.mobiledesignpatterngallery.com/mobile-patterns.php)
   + [Android UI Patterns](http://www.androiduipatterns.com/)
   + [Android Weekly](http://androidweekly.net)
+  + [How robots work](http://howrobotswork.wordpress.com)
 
 + Dev Tools
   + [android dpi calculator](http://coh.io/adpi/)
@@ -83,4 +86,5 @@ Bookmarks for android development
   + [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
   + [Android Holo Colors Generator](http://android-holo-colors.com/)
   + [Android Studio Templates](https://github.com/gabrielemariotti/AndroidStudioTemplate)
+  + [Make app icon](http://makeappicon.com/) - Generate app icons of all sizes in a click
 
